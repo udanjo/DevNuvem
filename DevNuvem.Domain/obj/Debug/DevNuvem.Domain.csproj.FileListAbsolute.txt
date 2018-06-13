@@ -1,0 +1,12 @@
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\bin\Debug\DevNuvem.Domain.dll
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\bin\Debug\DevNuvem.Domain.pdb
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.dll
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.pdb
+C:\Users\udanj\Documents\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.csprojAssemblyReference.cache
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\bin\Debug\DevNuvem.Domain.dll
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\bin\Debug\DevNuvem.Domain.pdb
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.csprojAssemblyReference.cache
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.csproj.CoreCompileInputs.cache
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.dll
+E:\Estudar\Projetos\Projeto_C#\DevNuvem\DevNuvem.Domain\obj\Debug\DevNuvem.Domain.pdb
